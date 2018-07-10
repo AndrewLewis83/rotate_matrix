@@ -27,6 +27,7 @@
 		A15815A620F45D7F00634668 /* rotate_matrix */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = rotate_matrix; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15815A920F45D7F00634668 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A15815B020F45EF800634668 /* rotate_matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotate_matrix.swift; sourceTree = "<group>"; };
+		A15815B220F503E900634668 /* new_zealand.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = new_zealand.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		A15815A820F45D7F00634668 /* rotate_matrix */ = {
 			isa = PBXGroup;
 			children = (
+				A15815B220F503E900634668 /* new_zealand.jpg */,
 				A15815A920F45D7F00634668 /* main.swift */,
 				A15815B020F45EF800634668 /* rotate_matrix.swift */,
 			);
