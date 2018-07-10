@@ -8,5 +8,13 @@
 
 import Foundation
 
-print("Hello, World!")
+let RM = rotate_matrix()
+
+print("""
+
+This program will take a given NxM matrix and rotate it 90 degrees.
+
+""")
+
+RM.startingPoint()
 
