@@ -12,7 +12,7 @@ let RM = rotate_matrix()
 
 print("""
 
-This program will take a given NxM matrix and rotate it 90 degrees.
+This program will take a given NxM matrix and rotate it 90 degrees. The actual instructions were to take an image, and place each pixel in an NxM matrix, and then rotate the image in place. To simplify this problem for now, I'm going to rotate an NxM matrix of randomly chosen (by me) ints by 90 degrees.
 
 """)
 
